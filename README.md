@@ -13,7 +13,8 @@ Enhanced security for sensitive and restricted environments.
 
 Scalable management for multiple access points.
 
-Repository Contents
+Repository Contents:
+
 published-paper.pdf — Published IEEE research paper detailing methodology and outcomes.
 
 published-certificate.pdf — Official certificate acknowledging publication.
